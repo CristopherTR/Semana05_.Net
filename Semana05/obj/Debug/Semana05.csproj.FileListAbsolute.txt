@@ -22,3 +22,7 @@ C:\Users\Alumno\source\repos\Semana05\Semana05\obj\Debug\Semana05.csproj.CoreCom
 C:\Users\Alumno\source\repos\Semana05\Semana05\obj\Debug\Semana05.csproj.CopyComplete
 C:\Users\Alumno\source\repos\Semana05\Semana05\obj\Debug\Semana05.exe
 C:\Users\Alumno\source\repos\Semana05\Semana05\obj\Debug\Semana05.pdb
+C:\Users\Alumno\source\repos\Semana05\Semana05\obj\Debug\View\ListaCategoria.g.cs
+C:\Users\Alumno\source\repos\Semana05\Semana05\obj\Debug\View\ManCategoria.g.cs
+C:\Users\Alumno\source\repos\Semana05\Semana05\obj\Debug\View\ListaCategoria.baml
+C:\Users\Alumno\source\repos\Semana05\Semana05\obj\Debug\View\ManCategoria.baml
